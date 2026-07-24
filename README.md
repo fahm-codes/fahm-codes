@@ -1,4 +1,7 @@
 # fahm.codes
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="GitHub Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Md Fahmid Hasan Sunny</h1>
 
 <h3 align="center">AI Engineer • Sports Analytics • Full Stack Developer</h3>
