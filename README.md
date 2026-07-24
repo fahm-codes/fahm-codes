@@ -1,12 +1,14 @@
 # fahm.codes
 <h1 align="center">Hi 👋, I'm Md Fahmid Hasan Sunny</h1>
 
-<h3 align="center">
-AI Engineer • Sports Analytics • Full Stack Developer
-</h3>
+<h3 align="center">AI Engineer • Sports Analytics • Full Stack Developer</h3>
 
 <p align="center">
-Building AI-powered products, Football Analytics solutions, and scalable web applications.
+Building AI-powered products, Football Analytics solutions and scalable web applications.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Sports+Analytics;Full+Stack+Developer;Software+Engineering+Student" />
 </p>
 
 ---
@@ -22,55 +24,35 @@ Building AI-powered products, Football Analytics solutions, and scalable web app
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-Python • JavaScript • HTML • CSS • SQL
-
-### Frameworks
-
-FastAPI • Node.js • Express
-
-### Database
-
-MongoDB • MySQL
-
-### Tools
-
-Git • GitHub • Docker • VS Code • Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,fastapi,mongodb,mysql,git,github,docker,vscode,linux" />
+</p>
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Sports Analytics
-- Computer Vision
-- Backend Development
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahm-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=fahm-codes&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 🚀 Featured Projects
-
-- ⚽ Football Analytics Platform
-- 🤖 AI Learning Assistant
-- 📊 Sports Data Dashboard
-- 🌐 Personal Portfolio
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahm-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect
 
-(Will be added in the next update)
+<p align="center">
+<a href="https://github.com/fahm-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/fahm-codes
-
----
-
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
